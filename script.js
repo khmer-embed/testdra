@@ -30,7 +30,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://raw.githubusercontent.com/khmer-embed/FightsBreakSphereSeason2Episode4/master/FightsBreakSphereSeason2Episode4.m3u8",
+            "https://hugh.cdn.rumble.cloud/video/s8/2/6/m/U/n/6mUnp.caa.mp4",
           label: "1080p",
           default: true
         }
