@@ -30,7 +30,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://hugh.cdn.rumble.cloud/video/s8/2/6/m/U/n/6mUnp.caa.mp4",
+            "https://vod-normal-global-cdn-z02.afreecatv.com/v101/hls/save/afreeca/station/2024/0120/01/1705682778416871.mp4/original/both/playlist.m3u8",
           label: "1080p",
           default: true
         }
